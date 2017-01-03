@@ -1,6 +1,6 @@
-# this is the website
+# website ideas
 
-## principle
+## principles
 * tracking most activities: music, sports, gps, anything that's possible
 * be simple and truthful
 * easy to upload (may include mobile apps and gear to upload)
