@@ -7,7 +7,17 @@
 *
 
 
-## logging
+## tracking
 - [ ] the apple health(iPhone and iWatch)
 - [ ] the GPS track
-- [ ]
+
+
+## logging
+- [ ] Blogs
+- [ ] Vlogs
+
+
+## pages
+- [ ] landing and hero page
+- [ ] project page
+- [ ] about page
